@@ -1,0 +1,11 @@
+Resources:
+  Function:
+    Type: AWS::Serverless::Function
+    Properties:
+      Timeout: 176
+      MemorySize: 1152
+      Handler: inAWSLambda.DbHandler
+      CodeUri: C:/Users/rafad/CS5914/Restapi_AWS_Lambda/HelloWorldFunction
+      Runtime: java17
+      Architectures:
+        - x86_64

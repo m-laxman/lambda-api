@@ -1,0 +1,23 @@
+API endpoints - eu-west-1 Laxman Muthe
+GET
+https://r0ppez7col.execute-api.eu-west-1.amazonaws.com/laxman/api/getAllBook
+GET
+https://r0ppez7col.execute-api.eu-west-1.amazonaws.com/laxman/api/getAllCategory
+POST
+https://r0ppez7col.execute-api.eu-west-1.amazonaws.com/laxman/api/addBook
+POST
+https://r0ppez7col.execute-api.eu-west-1.amazonaws.com/laxman/api/addCategory
+GET
+https://r0ppez7col.execute-api.eu-west-1.amazonaws.com/laxman/api/getBookByCategoryName
+GET
+https://r0ppez7col.execute-api.eu-west-1.amazonaws.com/laxman/api/getRandomBook
+GET
+https://r0ppez7col.execute-api.eu-west-1.amazonaws.com/laxman/api/getCategoryName
+GET
+https://r0ppez7col.execute-api.eu-west-1.amazonaws.com/laxman/api/getCategoryId
+GET
+https://r0ppez7col.execute-api.eu-west-1.amazonaws.com/laxman/api/getBookById
+GET
+https://r0ppez7col.execute-api.eu-west-1.amazonaws.com/laxman/api/getBookByCategoryId
+
+

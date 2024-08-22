@@ -1,0 +1,10 @@
+{
+  "httpMethod": "GET",
+  "path": "/api/getRandomBook",
+  "pathParameters": null,
+  "body": null,
+  "queryStringParameters": null,
+  "headers": {
+    "Content-Type": "application/json"
+  }
+}
